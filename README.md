@@ -9,3 +9,8 @@ This Object Oriented Programming project was divided to 3 Milestones
 Milestone 1: Creating the skeleton (Hierarchy and Classes)
 Milestone 2: Implementing the Game Logic
 Milestone 3: Implementing the GUI (by JavaFx)
+
+
+Note: 
+1- You need to have JavaFx installed to be able to run Main.java of the view Package
+2- You will also have to replace the placeholders for the Image locations used in this project (either with images of your choice or can be just removed)
