@@ -6,4 +6,6 @@ The Last of Us: Legacy is a single player survival game set in a zombie apocalyp
 
 This Object Oriented Programming project was divided to 3 Milestones
 
-Milestone 1: Creating the skeleton (Hierarchy and Classes) Milestone 2: Implementing the Game Logic Milestone 3: Implementing the GUI (by JavaFx)
+Milestone 1: Creating the skeleton (Hierarchy and Classes)
+Milestone 2: Implementing the Game Logic
+Milestone 3: Implementing the GUI (by JavaFx)
