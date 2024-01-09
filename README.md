@@ -1,4 +1,4 @@
-# TheLastOfUs FinalSubmission
+# The Last Of Us 2D Survival Game
 
 This is our Final Version of the Object Oriented Programming Project of this Semester. <br />
 
