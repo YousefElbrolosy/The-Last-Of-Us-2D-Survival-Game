@@ -11,7 +11,7 @@ This Object Oriented Programming project was divided to 3 Milestones <br />
 **Milestone 3**: Implementing the GUI (by JavaFx) <br />
  
 
-##Note##:  <br />
+**Note**:  <br />
 1- You need to have JavaFx installed to be able to run Main.java of the view Package <br />
 2- You will also have to replace the placeholders for the Image locations used in this project (either with images of your choice or can be just removed) <br />
 3- In order to run the Milestone 2 tests, you need to download the JUnit 4 Library 
